@@ -1,0 +1,5 @@
+Welcome to Flet Api Chat!
+
+Connect with a friendly AI companion powered by the open-source model from the Together API. Our chat is designed to be a seamless and intuitive experience, allowing you to have meaningful conversations without worrying about the technicalities.
+As we explore new ideas and topics together, I'll do my best to provide helpful and accurate information. Feel free to ask me anything - from simple questions to complex problems - and I'll respond with clarity and precision.
+Whether you're looking for guidance on a project, seeking advice on a personal matter, or simply want to chat about your day, I'm here to listen and assist. So take a deep breath, relax, and let's get started!
