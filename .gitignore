@@ -25,4 +25,5 @@ node_modules/
 *.tar
 *.tar.gz
 *.bin
+*.env
 .env
